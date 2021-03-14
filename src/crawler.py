@@ -35,6 +35,6 @@ def displayDropUrls():
     return df["urls"][0]
 
 
-print(displayMostRecentTweet())
-print(displayMostRecentTime())
-print(displayDropUrls())
+# print(displayMostRecentTweet())
+# print(displayMostRecentTime())
+# print(displayDropUrls())
